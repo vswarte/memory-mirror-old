@@ -1,5 +1,8 @@
 # MemoryMirror
 
+> [!CAUTION]
+> This tool was moved [here](https://github.com/vswarte/memory-mirror).
+
 ## What is this?
 This tool allows you to grab a running process and dump its memory such that it can (mostly) immediately be imported
 into Ghidra for analysis.
